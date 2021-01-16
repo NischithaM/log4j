@@ -1,0 +1,10 @@
+3    [main] ERROR com.cruds.logdemo.HelloWorld  - this is error msg
+3    [main] FATAL com.cruds.logdemo.HelloWorld  - this is fatal msg
+2    [main] ERROR com.cruds.logdemo.HelloWorld  - this is error msg
+2    [main] FATAL com.cruds.logdemo.HelloWorld  - this is fatal msg
+0    [main] DEBUG com.cruds.logdemo.HelloWorld  - this is debug msg
+2    [main] WARN  com.cruds.logdemo.HelloWorld  - this is warning msg
+3    [main] ERROR com.cruds.logdemo.HelloWorld  - this is error msg
+3    [main] FATAL com.cruds.logdemo.HelloWorld  - this is fatal msg
+1    [main] ERROR com.cruds.logdemo.HelloWorld  - this is error msg
+2    [main] FATAL com.cruds.logdemo.HelloWorld  - this is fatal msg
